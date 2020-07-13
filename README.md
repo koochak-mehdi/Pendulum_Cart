@@ -2,4 +2,4 @@
 
 A Demo about Pendulum-Cart.
 
-![](images/cart.png)
+![](images/cart.jpg)
