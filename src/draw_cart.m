@@ -1,4 +1,4 @@
-function draw_cart_2(q)
+function draw_cart(q)
 clf
 
 q1 = q(1);
